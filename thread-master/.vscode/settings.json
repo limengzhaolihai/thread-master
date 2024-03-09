@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "threadpool.h": "c",
+        "var.h": "c",
+        "*.tcc": "c",
+        "type_traits": "c"
+    }
+}
